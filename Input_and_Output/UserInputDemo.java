@@ -1,6 +1,5 @@
 /*
  * Program: User Input Demo
- * Author: Arham Ahmed
  * Description: Demonstrates reading different data types from the user.
  */
 
@@ -39,3 +38,4 @@ Integer: 10
 Double: 3.14
 Name: Arham
 */
+
